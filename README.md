@@ -1,4 +1,4 @@
-# Neural-Network-using-OS-concepts-Simple-Model-C-
+# Neural-Network-using-OS-concepts-Simple-Model-C++
 esign an OS that uses separate processes and threads on a multi-core processor for a neural network. Layers are processes, neurons are threads, and inter-process communication through pipes is used. Backpropagation updates weights and biases across layers, leveraging multi-core processing power
 
 
